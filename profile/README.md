@@ -14,7 +14,7 @@ Here you’ll find Via’s **core package**, **companion tools**, **examples**, 
 
 Because web development with Javascript frameworks and complex build chains can be exausting — and Go developers slould never have build a separate frontend in a different language.  
 
-Via brings **real-time data**, **live reactivity**, **type safety**, and **simplicity** to the browser — all powered by Go, with **[Datastar]('https://data-star.dev')** and **[Gomponents]('https://maragu.dev/gomponents')** under the hood.
+Via brings **real-time data**, **live reactivity**, **type safety**, and **simplicity** to the browser — all powered by Go, with **[Datastar](https://data-star.dev)** and **[Gomponents](https://maragu.dev/gomponents)** under the hood.
 
 You write Go code for everything: define your web UIs, state, actions and reacive signals — and Via helps you to keep your UI perfectly sync, instantly and efficiently.
 
