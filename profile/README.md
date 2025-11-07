@@ -3,7 +3,7 @@ A modern engine for building **rich, real-time, reactive web applications entire
 
 Via unifies frontend interactivity and backend logic under one language and runtime. No JavaScript. No templating languages. No build chains. Just Go.
 
-Here you’ll find Via’s **core package**, **companion tools**, **examples**, and experimental extensions that push the boundaries of what’s possible with server-rendered, real-time web apps.
+Here you’ll find a rich collection of resources including its **core package**, practical **examples**, reusable **Components**, and set of **plugin** extentions. These extentions provide Go bindings to popular libraries for charts, maps, and other interactive JavaScript-driven UI elements, as well a range of modern CSS libraries.
 
 ### 📦 What’s inside
 
