@@ -1,9 +1,11 @@
-# ⚡ Go-Via
+# Welcome to ⚡ Via 
 
-> Home of **Via** — the engine for building fully reactive, real-time web applications in pure Go.
+**Go-Via** is the home of [Via]('https://github.com/go-via/via') — 
+A modern engine for building **rich, reactive web applications entirely in Go** 
 
-Via lets you build rich, reactive web applications **entirely in Go** — no JavaScript, no templating, no build steps.  
-It unifies frontend interactivity and backend logic under one language and runtime.
+Via unifies frontend interactivity and backend logic under one language and runtime. No JavaScript. No templating languages. No build chains. Just Go.
+
+Here you’ll find Via’s **core package**, **companion tools**, **examples**, and experimental extensions that push the boundaries of what’s possible with server-rendered, real-time web apps.
 
 ### 📦 What’s inside
 
