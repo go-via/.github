@@ -1,5 +1,3 @@
-# Hello **Via**!
-
 **Go-Via** is the home of **[Via]('https://github.com/go-via/via')** — 
 A modern engine for building **rich, reactive web applications entirely in Go** 
 
