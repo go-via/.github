@@ -7,7 +7,7 @@ It unifies frontend interactivity and backend logic under one language and runti
 
 ---
 
-### 🌊 What’s inside
+### 📦 What’s inside
 
 - **[via](https://github.com/go-via/via)** — The core engine: pages, components, actions, and reactive signals.  
 - *(coming soon)* `v0.1.0` will introduce support for plugins, an example real-time dashboard with sub-second updates, and a ready-to-use starter template.
@@ -29,4 +29,4 @@ To make web applications in Go **reactive, real-time, and free from frontend com
 
 ---
 
-Stay tuned for examples and early release updates.
+Stay tuned for updates.
