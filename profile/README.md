@@ -3,8 +3,6 @@ A modern engine for building **rich, real-time, reactive web applications entire
 
 Via unifies frontend interactivity and backend logic under one language and runtime. No JavaScript. No templating languages. No build chains. Just Go.
 
-Here you’ll find a rich collection of resources including its **core** package, practical **examples**, reusable **components**, and set of **plugins** that provide Go bindings to popular libraries for charts, maps, and other interactive JavaScript-driven UI elements, as well a range of modern CSS libraries.
-
 ### 📦 What’s inside
 
 - **[via](https://github.com/go-via/via)** — The core engine: pages, components, actions, and reactive signals.  
@@ -12,7 +10,7 @@ Here you’ll find a rich collection of resources including its **core** package
 
 ### 🚀 Why Via?
 
-Because web development with Javascript frameworks and complex build chains can be exausting — and Go developers slould never have build a separate frontend in a different language.  
+Because web development with Javascript frameworks and complex build chains can be exausting — and because Go developers deserve a simple tool to build go-native modern frontends with full reactivity for their apps. And now, they can.
 
 Via brings **real-time data**, **live reactivity**, **type safety**, and **simplicity** to the browser — all powered by Go, with **[Datastar](https://data-star.dev)** and **[Gomponents](https://maragu.dev/gomponents)** under the hood.
 
