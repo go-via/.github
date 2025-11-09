@@ -10,7 +10,7 @@ Via unifies frontend interactivity and backend logic under one language and runt
 
 ### 🚀 Why Via?
 
-Because web development with Javascript frameworks and complex build chains can be exausting — and because Go developers deserve a simple tool to build go-native modern frontends with full reactivity for their apps. And now, they can.
+Because web development with Javascript frameworks and complex build chains can be exhausting — and because Go developers deserve simple tools to build go-native modern frontends with full reactivity for their applications.
 
 Via brings **real-time data**, **live reactivity**, **type safety**, and **simplicity** to the browser — all powered by Go, with **[Datastar](https://data-star.dev)** and **[Gomponents](https://maragu.dev/gomponents)** under the hood.
 
