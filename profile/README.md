@@ -14,8 +14,8 @@ Via unifies frontend interactivity and backend logic under one language and runt
   - Real-time dashboard example with sub-second updates.
   - CLI tool for easy dev workflow:
     - `via init` — bootstrap a new Via project.
-    - `via dev` to run your app in dev mode with intant reload on save (just like air-verse/air).
-    - `via build` to build the application.
+    - `via dev` — serve the app in development mode with intant reload on save (just like air-verse/air).
+    - `via build` — build a fully self contained single binary application file ready to be deployed anywhere.
 
 - *(comming eventually)*:
   - **Via Cloud** and `via deploy` CLI command to boostrap a `via-deploy.yml` manifest and deploy the application to a production-ready environment optimized for containerized workloads, including automatic provisioning of all required sidecar services, environment settings, and deployment policies.
