@@ -7,7 +7,7 @@ Via unifies frontend interactivity and backend logic under one language and runt
 
 - **[via](https://github.com/go-via/via)** — The core engine: pages, components, actions, and reactive signals.
 - Plugins for Via:
-  - **[via-plugin-picocss](https://github.com/go-via/via-plugin-picocss)** — Integrates [PicoCSS](https://picocss.com/) ― Minimal CSS styles for semantic HTML ✨
+  - **[via-plugin-picocss](https://github.com/go-via/via-plugin-picocss)** — Integrates [PicoCSS](https://picocss.com/) minimal CSS styles for semantic HTML right in Via ✨
     
 - *(coming soon)*:
   - Plugins: Apache ECharts, Maplibre Gl (libre version of Mapbox GL), and more. 
