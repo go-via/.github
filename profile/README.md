@@ -37,4 +37,4 @@ You write Go code for everything: define your web UIs, state, actions and reaciv
 
 To make web applications in Go **reactive, real-time, and free from frontend complexity**, while staying close to the Go’s philosophy of simplicity, clarity and control.
 
-> Welcome to the **Real-time Reactive Hypermedia** side of web dev! You wil like it here.
+> Welcome to the **Real-time Reactive Hypermedia** side of web dev! I think you will like it.
