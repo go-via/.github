@@ -1,6 +1,6 @@
 # go-via - An Old New Bold Direction for the Web
 
-Welcome to the **Real-time Reactive Hypermedia** side of web dev! 
+Welcome to the **Real-time, Reactive, Hypermedia** side of web dev! 
 
 ## About `go-via`
 
