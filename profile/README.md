@@ -31,9 +31,7 @@ Via unifies frontend interactivity and backend logic under one language and runt
 
 Web development with Javascript frameworks and complex build chains is not the *only* option.
 
-Things used to be simple. 
-
-Things can be simple again.
+Things used to be simple... Things can be simple again.
 
 Via brings **real-time data**, **live reactivity**, **type safety**, and **simplicity** to the browser — all powered by Go, with **[Datastar](https://data-star.dev)** and **[Gomponents](https://maragu.dev/gomponents)** under the hood.
 
@@ -41,4 +39,4 @@ You write Go code for everything: define your web UIs, state, actions and reaciv
 
 ### 🧭 Vision
 
-To make web applications in Go **reactive, real-time, and free from frontend complexity**, while staying close to the Go’s philosophy of simplicity, clarity and control.
+We intend to make hypermedia web applications built with Go more **aprochable, reactive, real-time, and free from frontend complexity**, while staying close to the Go’s philosophy of simplicity, clarity and control.
