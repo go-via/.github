@@ -7,11 +7,11 @@ Via unifies frontend interactivity and backend logic under one language and runt
 
 - **[via](https://github.com/go-via/via)** — The core engine: pages, components, actions, and reactive signals.
 - Plugins for Via:
-  - **[via-plugin-picocss](https://github.com/go-via/via-plugin-picocss)** — Integrates [PicoCSS](https://picocss.com/) minimal CSS styles for semantic HTML ✨
+  - **[picocss plugin](https://github.com/go-via/via/plugins/picocss)** — Integrates [PicoCSS](https://picocss.com/) minimal CSS styles for semantic HTML ✨
+  - **[echarts plugin](https://github.com/go-via/via/plugins/echarts)** — Integrates [Apache eCharts](https://echarts.apache.org/) powerful charting library to build awesome data visualizations 📊
     
 - *(coming soon)*:
-  - Plugins: Apache ECharts, Maplibre Gl (libre version of Mapbox GL), and more. 
-  - Real-time dashboard example with sub-second updates.
+  - Plugins: Maplibre Gl (libre version of Mapbox GL), and more. 
   - CLI tool for easy dev workflow:
     - `via init` — bootstrap a new Via project.
     - `via dev` — serve the app in development mode with intant reload on save (just like air-verse/air).
