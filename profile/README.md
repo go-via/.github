@@ -1,4 +1,10 @@
-**Go-Via** is the home of **[Via]('https://github.com/go-via/via')** — 
+# go-via - An Old New Bold Direction for the Web
+
+Welcome to the **Real-time Reactive Hypermedia** side of web dev! 
+
+## About `go-via`
+
+This is the home of **[Via]('https://github.com/go-via/via')** — 
 A modern engine for building **rich, real-time, reactive web applications entirely in Go** 
 
 Via unifies frontend interactivity and backend logic under one language and runtime. No JavaScript. No templating languages. No build chains. Just Go.
@@ -36,5 +42,3 @@ You write Go code for everything: define your web UIs, state, actions and reaciv
 ### 🧭 Vision
 
 To make web applications in Go **reactive, real-time, and free from frontend complexity**, while staying close to the Go’s philosophy of simplicity, clarity and control.
-
-> Welcome to the **Real-time Reactive Hypermedia** side of web dev! I think you will like it.
